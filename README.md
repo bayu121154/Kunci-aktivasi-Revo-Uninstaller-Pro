@@ -1,4 +1,5 @@
 Threads : https://www.threads.com/@lybtech_121154
+SAWERIA : https://saweria.co/LybTech121154
 
 # Kunci-aktivasi-Revo-Uninstaller-Pro
 Revo Uninstaller Pro Key Generator Python
