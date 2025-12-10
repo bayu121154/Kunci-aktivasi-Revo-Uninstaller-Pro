@@ -24,3 +24,14 @@ Perangkat lunak ini juga dilengkapi dengan alat yang memungkinkan pengguna untuk
 
 Berikut cuplikan kode Python sederhana untuk menghasilkan kunci untuk versi lengkap gratis Revo Uninstaller Pro:
 
+<pre>
+import random
+import string
+
+def generate_key():
+    characters = string.ascii_uppercase + string.digits
+    key = .join(random.choice(characters) for _ in range(16))  # Generates a 16-character key
+    return key
+
+print(Your free full version key for Revo Uninstaller Pro is: , generate_key())
+</pre>
